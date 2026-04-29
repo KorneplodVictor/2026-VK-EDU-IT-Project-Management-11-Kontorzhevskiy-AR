@@ -195,7 +195,6 @@
       "image_preview": "https://cdn.makerrent.ru/img1.jpg"
     }
   ],
-  "clusters": []
 }
 ```
 
@@ -206,8 +205,8 @@
 ```json
 {
   "listing_id": "eq-123",
-  "start_date": "2024-05-20",
-  "end_date": "2024-05-22"
+  "start_date": "2026-05-20",
+  "end_date": "2026-05-21"
 }
 ```
 
